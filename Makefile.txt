@@ -1,3 +1,0 @@
-CC = g++ 
-all: Shell.h
-	$(CC) $(CFLAGS)  Shell.cpp HW2.cpp
